@@ -1,0 +1,81 @@
+
+
+
+.logo{
+    max-width: 90px;
+}
+
+
+#blob{
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    width: 110%;
+    margin-left: -10%;
+    margin-top: -152px;
+
+}
+
+
+#pan{
+    position: absolute;
+    z-index: 1;
+    width: 60%;
+    height: auto;
+    top: 0;
+}
+
+
+.title {
+    font-size: 120px;
+}
+
+
+.frontContent{
+    text-align: left;
+    position: absolute;
+    left: 50%;
+    top: 22%;
+    font-family: "Special Elite";
+    z-index: 5;
+}
+
+
+.learnmore{
+    font-size: 40px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #F09729;
+    border: none;
+    border-radius: 55px;
+}
+
+
+a{
+    color: black;
+    font-family: "Special Elite";
+    font-size: 20px;
+
+}
+
+ul.nav a:hover {
+    color: black !important;
+    opacity: 70%;
+    background: none;
+}
+
+li:focus{
+    background-color: none;
+}
+
+
+a:hover, button:hover{
+    opacity: 70%;
+}
+
+
+#menuBtn{
+    max-width: 30px;
+    height: auto;
+}
