@@ -1,6 +1,4 @@
 
-
-
 .logo{
     max-width: 90px;
 }
@@ -20,29 +18,42 @@
 #pan{
     position: absolute;
     z-index: 1;
-    width: 60%;
+    width: 60vw;
     height: auto;
     top: 0;
+    left: 0;
 }
 
 
-.title {
-    font-size: 120px;
+
+.panel{
+    height: 100vh;
+    display: flex;
 }
 
 
-.frontContent{
+.footer{
+    width: 100%
+}
+
+
+.topFormat{
     text-align: left;
     position: absolute;
     left: 50%;
-    top: 22%;
     font-family: "Special Elite";
     z-index: 5;
+    top: 22%;
+}
+
+.title {
+    font-size: 8vw;
+
 }
 
 
-.learnmore{
-    font-size: 40px;
+.learnMore{
+    font-size: 3vw;
     padding: 5px;
     padding-left: 20px;
     padding-right: 20px;
@@ -59,10 +70,18 @@ a{
 
 }
 
-ul.nav a:hover {
+ul.nav a:hover{
     color: black !important;
     opacity: 70%;
     background: none;
+}
+
+.nav li{
+    padding-top: 15px;
+}
+
+.nav{
+    margin-right: 10px;
 }
 
 li:focus{
