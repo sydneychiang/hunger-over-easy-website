@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+.sponsorPanel{
+    height: 100vh;
+    width: 100vw;
+    background-color: #d2d2d2;
+}
+
+.sponsorLogos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.sponsorLogo{
+    width: 220px; /* width of container */
+    height: 100px; /* height of container */
+    object-fit: contain;
+
+
+}
+
+.sponsor{
+
+    margin: 10px;
+}
+
+
+
+
+.googleForm{
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+
+h3{
+    margin-bottom: 5vh;
+}
