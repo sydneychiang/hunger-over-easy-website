@@ -1,4 +1,12 @@
 
+body{
+    font-family: "Nunito";
+    border: none;
+    text-align: center;
+
+}
+
+
 .logo{
     max-width: 90px;
 }
@@ -11,7 +19,7 @@
     width: 110%;
     margin-left: -10%;
     margin-top: -152px;
-
+    animation-duration: 1s !important;
 }
 
 
@@ -22,52 +30,65 @@
     height: auto;
     top: 0;
     left: 0;
+
 }
 
 
 
-.panel{
+.slideUp{
+    animation: 0.7s ease-in-out 0s 1 slideUp;
+}
+
+.slideDown{
+    animation: 1s ease-in-out 0s 1 slideDown;
+}
+
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(50vh);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+
+@keyframes slideRight {
+    0% {
+        transform: translateX(-50vw);
+    }
+    100%{
+        transform: translateX(0vw);
+    }
+}
+
+@keyframes slideDown {
+  0% {
+    transform: translateY(-15vh);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.pagePanel{
     height: 100vh;
-    display: flex;
+    margin: 0px;
+}
+
+#menuBtn{
+    max-width: 30px;
+    height: auto;
 }
 
 
-.footer{
-    width: 100%
-}
-
-
-.topFormat{
-    text-align: left;
-    position: absolute;
-    left: 50%;
-    font-family: "Special Elite";
-    z-index: 5;
-    top: 22%;
-}
-
-.title {
-    font-size: 8vw;
-
-}
-
-
-.learnMore{
-    font-size: 3vw;
-    padding: 5px;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color: #F09729;
-    border: none;
-    border-radius: 55px;
-}
-
-
-a{
-    color: black;
-    font-family: "Special Elite";
+.navButton{
+    border-radius: 15px;
+    text-align: right;
+    padding: none;
     font-size: 20px;
-
+    color: black;
 }
 
 ul.nav a:hover{
@@ -84,30 +105,6 @@ ul.nav a:hover{
     margin-right: 10px;
 }
 
-li:focus{
-    background-color: none;
+.mainDesc{
+    font-size: 20px;
 }
-
-
-a:hover, button:hover{
-    opacity: 70%;
-}
-
-
-#menuBtn{
-    max-width: 30px;
-    height: auto;
-}
-
-
-.footer img{
-    max-width: 5vw;
-    float: right;
-    margin-right: 0.2vw;
-    margin-left: 0.2vw;
-}
-
-#calnevha{
-    max-width: 5.1vw
-}
-
