@@ -16,11 +16,17 @@ body{
     position: absolute;
     z-index: 0;
     top: 0;
+    left: -10;
     width: 110%;
     margin-left: -10%;
     margin-top: -152px;
     animation-duration: 1s !important;
 }
+
+#blobtest{
+
+}
+
 
 
 #pan{
@@ -75,7 +81,10 @@ body{
 .pagePanel{
     height: 100vh;
     margin: 0px;
+
 }
+
+
 
 #menuBtn{
     max-width: 30px;
@@ -96,6 +105,14 @@ ul.nav a:hover{
     opacity: 70%;
     background: none;
 }
+
+nav.navbar.slideDown {
+    position: absolute;
+    z-index: 3;
+    width: 100vw;
+    top: 0;
+}
+
 
 .nav li{
     padding-top: 15px;

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b9a977f-6ff6-4416-ac33-daccdb2df5fd" name="Default Changelist" comment="first commit, landing page is mostly set-up">
-      <change afterPath="$PROJECT_DIR$/css/aboutPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/landingPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/supportPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/aboutPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/eventsPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/supportPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/committeePhotos/tina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/youtube.svg" afterDir="false" />
+    <list default="true" id="8b9a977f-6ff6-4416-ac33-daccdb2df5fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/aboutPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aboutPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hoeLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/hoeLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/landingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/landingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/aboutPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/aboutPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/eventsPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/eventsPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/supportPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/supportPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/stickerPhotos/Frame 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/stickerPhotos/Frame 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/stickerPhotos/Frame 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/stickerPhotos/Frame 4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/stickerPhotos/Frame 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/stickerPhotos/Frame 6.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,32 +28,32 @@
     <favorites_list name="hungerovereasy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5318066">
+    <splitter split-orientation="horizontal" split-proportion="0.4597116">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1152">
-                  <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html/eventsPage.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+                <state relative-caret-position="-1046">
+                  <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/html/eventsPage.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="423">
+                  <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html/supportPage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="299">
-                  <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+                <state relative-caret-position="525">
+                  <caret line="35" selection-start-line="35" selection-end-line="35" />
                 </state>
               </provider>
             </entry>
@@ -61,8 +61,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html/aboutPage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1380">
-                  <caret line="104" column="50" selection-start-line="104" selection-start-column="50" selection-end-line="104" selection-end-column="50" />
+                <state relative-caret-position="675">
+                  <caret line="45" selection-start-line="45" selection-end-line="45" />
                 </state>
               </provider>
             </entry>
@@ -74,8 +74,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/footer.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="235">
+                  <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -83,17 +83,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/landingPage.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1740">
-                  <caret line="116" selection-start-line="116" selection-end-line="116" />
+                <state relative-caret-position="390">
+                  <caret line="100" selection-start-line="100" selection-end-line="100" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1650">
-                  <caret line="110" selection-start-line="110" selection-end-line="110" />
+                <state relative-caret-position="495">
+                  <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -101,17 +101,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/aboutPage.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="343">
-                  <caret line="39" selection-start-line="39" selection-end-line="41" selection-end-column="22" />
+                <state relative-caret-position="90">
+                  <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/supportPage.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="630">
-                  <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+                <state relative-caret-position="735">
+                  <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -131,11 +131,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img</find>
       <find>menu</find>
-      <find>logo</find>
       <find>float</find>
-      <find>footer</find>
       <find>a</find>
       <find>middle</find>
       <find>navbut</find>
@@ -143,7 +140,16 @@
       <find>back</find>
       <find>panel</find>
       <find>bacgrou</find>
+      <find>logo</find>
+      <find>footer</find>
+      <find>footerlog</find>
+      <find>img</find>
+      <find>learn</find>
+      <find>pagepa</find>
+      <find>navbar</find>
       <find>nav</find>
+      <find>pagepan</find>
+      <find>learnmore</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,15 +160,15 @@
       <list>
         <option value="$PROJECT_DIR$/js/landingPage.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/landingPage.css" />
+        <option value="$PROJECT_DIR$/css/supportPage.css" />
+        <option value="$PROJECT_DIR$/html/supportPage.html" />
+        <option value="$PROJECT_DIR$/html/aboutPage.html" />
         <option value="$PROJECT_DIR$/css/footer.css" />
         <option value="$PROJECT_DIR$/html/index.html" />
-        <option value="$PROJECT_DIR$/html/eventsPage.html" />
-        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/aboutPage.css" />
-        <option value="$PROJECT_DIR$/html/aboutPage.html" />
-        <option value="$PROJECT_DIR$/html/supportPage.html" />
-        <option value="$PROJECT_DIR$/css/supportPage.css" />
+        <option value="$PROJECT_DIR$/css/landingPage.css" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/html/eventsPage.html" />
       </list>
     </option>
   </component>
@@ -180,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,35 +197,28 @@
             <path>
               <item name="hungerovereasy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hungerovereasy" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hungerovereasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hungerovereasy" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hungerovereasy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hungerovereasy" type="462c0819:PsiDirectoryNode" />
+              <item name="hunger-over-easy-website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hungerovereasy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hungerovereasy" type="462c0819:PsiDirectoryNode" />
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hungerovereasy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hungerovereasy" type="462c0819:PsiDirectoryNode" />
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
-              <item name="committeePhotos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hungerovereasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hungerovereasy" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
-              <item name="pastSponsors" type="462c0819:PsiDirectoryNode" />
+              <item name="stickerPhotos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +264,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610689047831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed committee images, added previous sponsors. home page and footers broken">
+      <created>1612954379147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612954379147</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated committee images, added sponsors. broken home page and footer">
+      <created>1612954416075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612954416075</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated committee images, added sponsors. broken home page and footer">
+      <created>1612954520284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612954520284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -281,7 +302,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.22547771" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -292,7 +313,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit, landing page is mostly set-up" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit, landing page is mostly set-up" />
+    <MESSAGE value="fixed committee images, added previous sponsors. home page and footers broken" />
+    <MESSAGE value="updated committee images, added sponsors. broken home page and footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated committee images, added sponsors. broken home page and footer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/imgs/blob2.svg" />
@@ -302,10 +325,24 @@
     <entry file="file://$PROJECT_DIR$/imgs/hoeLogo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/landingPage.css">
+    <entry file="file://$PROJECT_DIR$/html/supportPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/aboutPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/supportPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -316,59 +353,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1152">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/eventsPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="235">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/stickerPhotos/Frame 1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/stickerPhotos/Frame 2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/aboutPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/landingPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1046">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="495">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/aboutPage.html">
+    <entry file="file://$PROJECT_DIR$/html/eventsPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="104" column="50" selection-start-line="104" selection-start-column="50" selection-end-line="104" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/aboutPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="39" selection-start-line="39" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/supportPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/supportPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="423">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
         </state>
       </provider>
     </entry>
