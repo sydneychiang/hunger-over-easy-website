@@ -1,18 +1,24 @@
 
+
+body{
+    font-size: 20px;
+}
+
+html{
+    scroll-behavior: smooth;
+    transition-timing-function: ease;
+}
+
+
 .aboutUs{
-    position: absolute;
-    z-index: 1;
-    background: none;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 200px;
+    width: 50vw;
+    padding-bottom: 100px;
+
 }
 
-
-.footer{
-    width: 100%;
-    font-size: 20px;
-    font-family: "Nunito";
-}
 
 .homePageMainPanel{
     background: linear-gradient(180deg, rgba(242, 189, 29, 0.7) 0%, rgba(255, 122, 1, 0.7) 100%) !important;
@@ -23,12 +29,18 @@
     position: absolute;
     left: 50%;
     z-index: 5;
-    top: 22%;
+    top: 26%;
+
 }
 
 .title {
-    font-size: 8vw;
+    font-size: 9vw;
     animation-duration: 0.7s;
+
+}
+
+h1{
+    font-size: 50px;
 }
 
 
@@ -42,7 +54,10 @@
     border: none;
     border-radius: 55px;
     animation-duration: 0.7s;
+    color: black;
+
 }
+
 
 
 li:focus{
@@ -52,6 +67,9 @@ li:focus{
 
 a:hover, button:hover{
     opacity: 60%;
+    text-decoration: none;
+    color: black;
+    cursor:pointer;
 }
 
 #calnevha{
@@ -71,32 +89,15 @@ a:hover, button:hover{
     align-items: stretch;
 }
 
-.middleFooter{
-    display: inline;
-}
 
 .inline{
     display: inline;
 }
 
-.footerLogo{
-    min-width: 100px;
-    height: auto;
-}
-
-.ckiLogos{
-    float: right;
-}
-
-.footerContact{
-    height: 2em;
-    width: 10em;
-}
 
 
-.socialMediaFooter{
 
-}
+
 
 
 
@@ -110,7 +111,3 @@ a:hover, button:hover{
 
 }
 
-.footerMid{
-    margin-left: 2em;
-    margin-right: 2em;
-}

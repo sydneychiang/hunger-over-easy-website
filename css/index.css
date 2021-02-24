@@ -3,6 +3,7 @@ body{
     font-family: "Nunito";
     border: none;
     text-align: center;
+    font-size: 20px;
 
 }
 
@@ -27,7 +28,13 @@ body{
 
 }
 
-
+.header{
+    padding-top: 12vh;
+    padding-bottom: 7vh;
+    font-size: 50px;
+    background: linear-gradient(180deg, rgba(242, 189, 29, 0.7) 0%, rgba(255, 122, 1, 0.7) 100%) !important;
+    margin-bottom: 10vh;
+}
 
 #pan{
     position: absolute;
@@ -79,7 +86,7 @@ body{
 }
 
 .pagePanel{
-    height: 100vh;
+    min-height: 100vh;
     margin: 0px;
 
 }

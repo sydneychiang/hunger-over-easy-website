@@ -1,16 +1,46 @@
 
 
 .footer{
-    height: 50vh;
-    background-color: #7B899A;
+
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 80px 20px;
+
+
+}
+
+footer{
+    background-color: #7B899A;
+}
+
+
+.left{
+    flex: 1 1;
+}
+
+.middle{
+    flex: 2 1;
+
+}
+
+.smaller{
+    width: 60%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.right{
+    flex: 1 1;
+    text-align: left;
 }
 
 
 
+
 .ckiLogos img{
-    height: 10vh;
     align-self: flex-end;
 }
 
@@ -38,10 +68,19 @@
 }
 
 .ckiLogos{
-    align-self: flex-end;
 }
 
 .inline{
     display: inline;
 }
 
+.footerLogo{
+    min-width: 100px;
+    height: auto;
+}
+
+.socialMediaFooter{
+    width: 5vw;
+    margin-right: 0.2vw;
+    margin-left: 0.2vw;
+}
