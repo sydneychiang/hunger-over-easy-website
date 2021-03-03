@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b9a977f-6ff6-4416-ac33-daccdb2df5fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imgs/pan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/panResize.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/eventsPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/eventsPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/landingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/landingPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/aboutPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/aboutPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/eventsPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/eventsPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/supportPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/supportPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/fryingPan.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/fryingPan.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +18,7 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html/index.html">
+            <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1065">
                   <caret line="71" selection-start-line="71" selection-end-line="71" />
@@ -251,10 +240,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$/imgs/committeePhotos" />
       <recent name="$PROJECT_DIR$/html" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
@@ -337,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614165825676</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished website">
+      <created>1614765487040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614765487040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -387,7 +383,8 @@
     <MESSAGE value="updated committee images, added sponsors. broken home page and footer" />
     <MESSAGE value="reformatted navbar, changed landing page design, added stickers to file" />
     <MESSAGE value="finished basic page style issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished basic page style issues" />
+    <MESSAGE value="finished website" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished website" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/imgs/blob2.svg" />
@@ -459,7 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
