@@ -2,6 +2,8 @@
 
 body{
     font-size: 20px;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 html{
@@ -21,21 +23,47 @@ html{
 
 
 .homePageMainPanel{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     background: linear-gradient(180deg, rgba(242, 189, 29, 0.7) 0%, rgba(255, 122, 1, 0.7) 100%) !important;
 }
 
 .topFormat{
     text-align: left;
-    position: absolute;
-    left: 50%;
-    z-index: 5;
-    top: 26%;
+    width: 50vw;
 
 }
 
+
+.leftCol{
+    width: 45vw;
+    height: 100vh;
+}
+
+
+.rightCol{
+    display: flex;
+    align-items: center;
+}
+
+#pan{
+    width: 60vw;
+    animation-duration: 0.4s;
+    transition-timing-function: ease;
+    margin-left: -20px;
+    position: absolute;
+    z-index: 0;
+
+}
+
+
+
+
 .title {
-    font-size: 9vw;
+    font-size: 8vw;
     animation-duration: 0.7s;
+    margin-top: -100px;
 
 }
 
@@ -96,11 +124,6 @@ a:hover, button:hover{
 
 
 
-
-
-
-
-
 .copyright{
     float: left;
     text-align: left;
@@ -111,3 +134,33 @@ a:hover, button:hover{
 
 }
 
+
+
+@media screen and (max-width: 640px){
+
+    .topFormat{
+        margin-top: 5vh;
+        text-align: center;
+    }
+
+    #pan{
+        margin-top: 0px;
+        display: none;
+    }
+
+    .leftCol{
+        height: 0px;
+        width: 0px;
+    }
+
+    .homePageMainPanel{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 1007px){
+
+}

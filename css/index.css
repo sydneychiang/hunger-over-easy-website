@@ -36,15 +36,7 @@ body{
     margin-bottom: 10vh;
 }
 
-#pan{
-    position: absolute;
-    z-index: 1;
-    width: 60vw;
-    height: auto;
-    top: 0;
-    left: 0;
 
-}
 
 
 
@@ -113,11 +105,15 @@ ul.nav a:hover{
     background: none;
 }
 
-nav.navbar.slideDown {
-    position: absolute;
-    z-index: 3;
+nav.navbar {
     width: 100vw;
-    top: 0;
+    background-color: #F6D161;
+    margin-bottom: 0px!important;
+}
+
+.navbar{
+    margin-bottom: 0px !important;
+    padding-bottom: 20px;
 }
 
 
@@ -132,3 +128,27 @@ nav.navbar.slideDown {
 .mainDesc{
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 600px){
+    .pagePanel{
+        min-height: 50vh;
+    }
+
+    .navbar-collapse{
+        text-align:right;
+        float: right;
+        width: 100vw;
+    }
+
+
+}
+
+@media screen and (max-width: 1007px){
+    .pagePanel{
+    }
+
+
+}
+
+
