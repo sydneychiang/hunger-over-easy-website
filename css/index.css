@@ -109,6 +109,7 @@ nav.navbar {
     width: 100vw;
     background-color: #F6D161;
     margin-bottom: 0px!important;
+    border-radius: 0px;
 }
 
 .navbar{
@@ -130,10 +131,12 @@ nav.navbar {
 }
 
 
+
 @media screen and (max-width: 600px){
     .pagePanel{
         min-height: 50vh;
     }
+
 
     .navbar-collapse{
         text-align:right;
